@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Simple Calendar</string>
-    <string name="app_launcher_name">Calendar</string>
-    <string name="change_view">Change view</string>
-    <string name="weekly_view">Weekly view</string>
-    <string name="monthly_view">Monthly view</string>
-    <string name="yearly_view">Yearly view</string>
-    <string name="simple_event_list">Simple event list</string>
-    <string name="no_upcoming_events">Seems like you don\'t have any upcoming events.</string>
+    <string name="app_name">Simpel Kalender</string>
+    <string name="app_launcher_name">Kalender</string>
+    <string name="change_view">Visning</string>
+    <string name="weekly_view">Ugentlig</string>
+    <string name="monthly_view">Månedlig</string>
+    <string name="yearly_view">Årlig</string>
+    <string name="simple_event_list">Enkelt aftale</string>
+    <string name="no_upcoming_events">Du har vist ingen forestående begivenheder.</string>
     <string name="add_some_events">You can add some with the Plus button at the bottom.</string>
     <string name="details">Details</string>
     <string name="go_to_today">Go to today</string>
